@@ -5,4 +5,4 @@ if a>b:
 else:
    print("b is greater than a")
 
-print("also a*b is = " + str(a))
+print("also a*b is = " + str(a*b))
